@@ -3,7 +3,7 @@ import { NgModule } from '@angular/core';
 
 
 // Import HttpClientModule from @angular/common/http
-import {HttpClientModule, HttpClient} from '@angular/common/http';
+import {HttpClientModule} from '@angular/common/http';
 
 import { AppComponent } from './app.component';
 
@@ -16,7 +16,7 @@ import { AppComponent } from './app.component';
         HttpClientModule
 
     ],
-    providers: [HttpClient],
+    providers: [HttpClientModule],
     bootstrap: [AppComponent]
 })
 export class AppModule { }
