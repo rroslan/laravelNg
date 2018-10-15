@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eabf3d13-0fdd-4541-8bd5-c66022587ca4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular-module/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/angular-module/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular-module/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/angular-module/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular-module/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/angular-module/src/app/app.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular-module/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/angular-module/src/app/app.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular-module/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/angular-module/src/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular-module/src/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/angular-module/src/styles.css" afterDir="false" />
-    </list>
+    <list default="true" id="eabf3d13-0fdd-4541-8bd5-c66022587ca4" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -437,18 +429,17 @@
       <workItem from="1539268999382" duration="6730000" />
       <workItem from="1539530689998" duration="3886000" />
       <workItem from="1539573869327" duration="1065000" />
-      <workItem from="1539574968454" duration="1109000" />
+      <workItem from="1539574968454" duration="1354000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26920000" />
+    <option name="totallyTimeSpent" value="27165000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="48" y="-11" width="1319" height="780" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26593235" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26593235" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -462,7 +453,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="TypeScript" order="10" />
-      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.4996066" visible="true" weight="0.32919255" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.4996066" visible="true" weight="0.32919255" />
       <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.5003934" side_tool="true" weight="0.32919255" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
